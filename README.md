@@ -1,2 +1,4 @@
 # Django_advanced
-Django working with docker and APIs
+
+building a ToDo Web Application with Django,Docker,APIs
+
